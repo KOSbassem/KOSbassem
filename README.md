@@ -14,7 +14,7 @@ I'm an **AI / Data Engineer** with a strong background in **Natural Language Pro
 - 🌱 Exploring **LLM Agents**, **RAG pipelines**, and **Agentic AI**
 - 💬 Ask me about **NLP, BERT fine-tuning, Spring Boot, Vue.js**
 - 🌍 Based in **Sfax, Tunisia**
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/kosbassem)
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/kesentinibassem/)
 
 ---
 
