@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Bassem 👋</h1>
+<h1 align="center">Hi, I'm Kessentini Bassem 👋</h1>
 <h3 align="center">AI Engineer · NLP & LLM Specialist · Full Stack Developer</h3>
 <h4 align="center">📍 Sfax, Tunisia</h4>
 
